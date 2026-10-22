@@ -209,7 +209,7 @@
     202,
     205
   ],
-  "chunk_size": 16,
+  "chunk_size": 30,
   "stats": {
     "state_mean": [
       225.1065673828125,

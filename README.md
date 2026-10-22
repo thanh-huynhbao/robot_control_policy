@@ -7,5 +7,5 @@
 |-|-|-|
 |BC|done|done|
 |DAgger|done||
-|ACT|||
-|Diffusion|||
+|ACT|done||
+|Diffusion|done||
