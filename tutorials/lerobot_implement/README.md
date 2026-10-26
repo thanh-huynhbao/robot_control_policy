@@ -1,0 +1,4 @@
+## Workflow of implement imitation learning
+This folder provide the code sample of imitation learning policy following the LeRobot framework. However, the implement here only focus on evaluate the policies on datasets and have not inferences in practical experiments. 
+
+So, the pipeline can be separated into six steps: explore dataset, data preparation, model configuration, model training, model inference and plotting results. First, dataset should be nailed to the correct form making sure it is suitable for LeRobot framework. Second, hyperparameters of chosen model, for example ACT or Diffusion, should be selected before training with dataset. Model inferences the testset after training, in this way, the performance of the model are obtained by comparing the results of inference with groundtruth of the testset. After all, the results are depicted as charts and metric values, such as MSE and MAE.
